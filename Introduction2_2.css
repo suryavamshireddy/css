@@ -1,0 +1,10 @@
+h1{
+    text-transform: capitalize;
+    text-indent: 10px;
+    color: #808080;
+}
+p{
+    text-transform:initial;
+    text-indent: 20px;
+    color: #808080; 
+}
